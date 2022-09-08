@@ -1,6 +1,7 @@
-# Dev-Web-P6-Construisez-une-API-s-curis-e-pour-une-application-d-avis-gastronomiques
+# P6 Construisez une API securisee pour une application d'avis gastronomiques
 
-Etat du code lors du passage de soutenance
+- Etat du code lors du passage de soutenance.
+- Le Front-End du projet étant fournis avec l'énoncé du projet, le Back-End fut développé par moi-même.
 
 
 # HotTakes
